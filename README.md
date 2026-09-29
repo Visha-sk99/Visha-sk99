@@ -1,109 +1,92 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400" alt="Kitty Coding Gif" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there, I'm Vishal Mourya 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=220&section=header&text=Vishal%20Mourya&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Civic%20Tech%20%7C%20EdTech%20%7C%20Real-Time%20Systems&descAlignY=75&descSize=20&fontAlignY=35" width="100%"/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Civic+Tech+%7C+EdTech+%7C+Real-Time+Systems;Building+solutions+that+solve+real+problems;Currently+leveling+up+my+DSA+game" alt="Typing SVG" />
-</h3>
+<img src="https://komarev.com/ghpvc/?username=visha-sk99&style=flat-square&color=0e75b6" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=visha-sk99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/visha-sk99?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/visha-sk99?affiliations=OWNER&style=flat&color=0e75b6&label=Total%20Stars" alt="Stars" />
-</p>
+### 💡 Developer by Day, Problem Solver Always
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+CivicLink+%F0%9F%8F%9B%EF%B8%8F;Solving+Real-World+Problems+with+Code;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
+
+---
+
+## 🧰 My Toolkit
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1PIhUCF-T-KAgCht4_UfyrOhaTd9Y0mC6/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=googledrive" alt="Resume" />
-  </a>
-  <a href="mailto:vishmour31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vishmour31%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <br/>
+  <!-- Database & Cloud -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/>
+  <!-- ML & Tools -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Projects
 
-- 🔭 Currently building **[CivicLink](https://github.com/Visha-sk99/CivicLink)** — a Civic Tech solution
-- 🌱 Currently sharpening my **Data Structures & Algorithms**
-- 👯 Looking to collaborate on **[Orbizee](https://orbizee-zg3a.vercel.app/dashboard)**
-- 🤝 Looking for contributors on **[CivicLink](https://github.com/Visha-sk99/CivicLink)**
-- 💬 Ask me about **building real-world solutions**
+| 🌟 Project | 🚀 Description | 💻 Tech Stack |
+|-------------|----------------|--------|
+| **🏛️ CivicLink** | A Civic Tech platform bridging citizens and local governance, designed to simplify reporting, tracking, and resolving civic issues in real time. *(Actively looking for contributors!)* | MERN Stack, REST APIs |
+| **📊 Orbizee** | A dashboard-driven platform focused on [add your 1-line pitch here — e.g. "streamlining business/organization workflows with real-time analytics"]. | React, Node.js, [add DB/tools used] |
+
+> ✏️ Replace the Orbizee description with your actual pitch — keep it short & outcome-focused like: *"reduces X by Y%"* or *"automates Z process"*.
+
+---
+
+## 🌱 Currently
+
+- 🔭 Building **[CivicLink](https://github.com/Visha-sk99/CivicLink)** — solving civic issues through tech
+- 🧠 Sharpening my **Data Structures & Algorithms**
+- 👯 Open to collaborate on **[Orbizee](https://orbizee-zg3a.vercel.app/dashboard)**
+- 🤝 Looking for contributors on **CivicLink**
+- 💬 Ask me about **building practical, real-world solutions**
 - ⚡ Fun fact: **BoRn BaKcHoOd** 😄
 
 ---
 
-### 🌟 Featured Projects
+## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Visha-sk99/CivicLink">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=visha-sk99&repo=CivicLink&theme=default" alt="CivicLink" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://orbizee-zg3a.vercel.app/dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=visha-sk99&repo=Orbizee&theme=default" alt="Orbizee" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-> 💡 Replace `repo=Orbizee` with your actual repo name if it differs.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visha-sk99&show_icons=true&theme=blue-green&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visha-sk99&layout=compact&theme=blue-green&hide_border=true" height="165"/>
 </p>
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=visha-sk99&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </p>
 
-**Backend & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-**Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-**Cloud, Tools & ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,pytorch,tensorflow" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visha-sk99&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visha-sk99&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visha-sk99&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=visha-sk99&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visha-sk99&theme=react-dark" alt="Contribution Graph" width="95%"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=visha-sk99&theme=flat&no-frame=true&row=1&column=7" alt="Trophies" />
@@ -111,20 +94,16 @@
 
 ---
 
-### 🤝 Connect with Me
+## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/unstoppable_sk_99" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:vishmour31@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
+  <a href="mailto:vishmour31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/unstoppable_sk_99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Visha-sk99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1PIhUCF-T-KAgCht4_UfyrOhaTd9Y0mC6/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0e75b6&height=100&section=footer" width="100%"/>
 
-<p align="center"><i>⭐ From <a href="https://github.com/Visha-sk99">Vishal Mourya</a> — Let's build something impactful!</i></p>
+</div>
