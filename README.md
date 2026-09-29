@@ -2,9 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=220&section=header&text=Vishal%20Mourya&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Civic%20Tech%20%7C%20EdTech%20%7C%20Real-Time%20Systems&descAlignY=75&descSize=20&fontAlignY=35" width="100%"/>
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" alt="Coding Gif"/>
+<br/>
+
+<img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400" alt="Coding Kitty"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=visha-sk99&style=flat-square&color=0e75b6" alt="Profile Views" />
+
+<br/><br/>
 
 ### 💡 Developer by Day, Problem Solver Always
 
@@ -54,9 +60,9 @@
 | 🌟 Project | 🚀 Description | 💻 Tech Stack |
 |-------------|----------------|--------|
 | **🏛️ CivicLink** | A Civic Tech platform bridging citizens and local governance, designed to simplify reporting, tracking, and resolving civic issues in real time. *(Actively looking for contributors!)* | MERN Stack, REST APIs |
-| **📊 Orbizee** | A dashboard-driven platform focused on [add your 1-line pitch here — e.g. "streamlining business/organization workflows with real-time analytics"]. | React, Node.js, [add DB/tools used] |
+| **📊 Orbizee** | A dashboard-driven platform focused on [add your 1-line pitch here]. | React, Node.js, [add DB/tools used] |
 
-> ✏️ Replace the Orbizee description with your actual pitch — keep it short & outcome-focused like: *"reduces X by Y%"* or *"automates Z process"*.
+> ✏️ Replace the Orbizee description with your actual pitch.
 
 ---
 
