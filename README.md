@@ -14,7 +14,7 @@
 
 ### 💡 Developer by Day, Problem Solver Always
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+%2B+Next.js+Developer;Building+Real-Time+Web+Applications;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5C0A&center=true&vCenter=true&width=600&lines=Building+CivicLink+%F0%9F%8F%9B%EF%B8%8F;Solving+Real-World+Problems+with+Code;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
 
 ---
 
