@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400" alt="Kitty Coding Gif" />
+</p>
+
 <h1 align="center">Hi there, I'm Vishal Mourya 👋</h1>
 
 <h3 align="center">
