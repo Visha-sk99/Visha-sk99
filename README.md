@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=220&section=header&text=Vishal%20Mourya&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Civic%20Tech%20%7C%20EdTech%20%7C%20Real-Time%20Systems&descAlignY=75&descSize=20&fontAlignY=35" width="100%"/>
 
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" alt="Coding Gif"/>
+
 <img src="https://komarev.com/ghpvc/?username=visha-sk99&style=flat-square&color=0e75b6" alt="Profile Views" />
 
 ### 💡 Developer by Day, Problem Solver Always
