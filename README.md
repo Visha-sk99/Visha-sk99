@@ -14,7 +14,7 @@
 
 ### 💡 Developer by Day, Problem Solver Always
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+CivicLink+%F0%9F%8F%9B%EF%B8%8F;Solving+Real-World+Problems+with+Code;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5C0A&center=true&vCenter=true&width=600&lines=Building+CivicLink+%F0%9F%8F%9B%EF%B8%8F;Solving+Real-World+Problems+with+Code;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
 
 ---
 
@@ -60,9 +60,9 @@
 | 🌟 Project | 🚀 Description | 💻 Tech Stack |
 |-------------|----------------|--------|
 | **🏛️ CivicLink** | A Civic Tech platform bridging citizens and local governance, designed to simplify reporting, tracking, and resolving civic issues in real time. *(Actively looking for contributors!)* | MERN Stack, REST APIs |
-| **📊 Orbizee** | A dashboard-driven platform focused on [add your 1-line pitch here]. | React, Node.js, [add DB/tools used] |
+| **📊 Orbizee** | A dashboard-driven platform focused on "No more spreadsheets — Orbizee gives JEE/NEET/Boards coaching institutes stream-isolated marks tracking and growth analytics, instantly." | React, Node.js, [add DB/tools used] |
 
-> ✏️ Replace the Orbizee description with your actual pitch.
+Orbizee — a full-stack analytics platform for coaching institutes, tracking student performance across JEE Main, NEET, and Boards streams with real-time dashboards, growth analytics, and automated PDF reports. Built with Next.js 15, TypeScript, and Firebase.
 
 ---
 
