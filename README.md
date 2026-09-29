@@ -14,7 +14,7 @@
 
 ### 💡 Developer by Day, Problem Solver Always
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5C0A&center=true&vCenter=true&width=600&lines=Building+CivicLink+%F0%9F%8F%9B%EF%B8%8F;Solving+Real-World+Problems+with+Code;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+%2B+Next.js+Developer;Building+Real-Time+Web+Applications;Currently+Grinding+DSA+%F0%9F%94%A5;Open+to+Collaborate+on+Orbizee" />
 
 ---
 
@@ -22,35 +22,33 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br/>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <br/>
-  <!-- Backend -->
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <br/>
-  <!-- Database & Cloud -->
+  <!-- Database & Tools -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <br/>
-  <!-- ML & Tools -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <br/>
+  <!-- Technologies -->
+  <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
@@ -59,21 +57,41 @@
 
 | 🌟 Project | 🚀 Description | 💻 Tech Stack |
 |-------------|----------------|--------|
-| **🏛️ CivicLink** | A Civic Tech platform bridging citizens and local governance, designed to simplify reporting, tracking, and resolving civic issues in real time. *(Actively looking for contributors!)* | MERN Stack, REST APIs |
-| **📊 Orbizee** | A dashboard-driven platform focused on "No more spreadsheets — Orbizee gives JEE/NEET/Boards coaching institutes stream-isolated marks tracking and growth analytics, instantly." | React, Node.js, [add DB/tools used] |
+| **📊 Orbizee** — Classes Management System | Full-stack platform with Google OAuth login & role-based access control. Built an Excel-style marks entry system with keyboard navigation & inline validation. Optimized performance with module-level caching, cutting Firestore reads by **~90%**. | Next.js 15, TypeScript, Firebase |
+| **🏛️ CivicLink** — Citizen-Politician Interface | Full-stack civic social media platform enabling citizens to report and track community issues in real time, with photo upload & preview support. | React.js, Node.js, Express.js, MongoDB Atlas |
 
-Orbizee — a full-stack analytics platform for coaching institutes, tracking student performance across JEE Main, NEET, and Boards streams with real-time dashboards, growth analytics, and automated PDF reports. Built with Next.js 15, TypeScript, and Firebase.
+🔗 [Orbizee Live](https://orbizee-zg3a.vercel.app/dashboard) • [Orbizee GitHub](#) &nbsp;|&nbsp; [CivicLink GitHub](https://github.com/Visha-sk99/CivicLink)
 
 ---
 
-## 🌱 Currently
+## 💼 Professional Experience
 
-- 🔭 Building **[CivicLink](https://github.com/Visha-sk99/CivicLink)** — solving civic issues through tech
-- 🧠 Sharpening my **Data Structures & Algorithms**
-- 👯 Open to collaborate on **[Orbizee](https://orbizee-zg3a.vercel.app/dashboard)**
-- 🤝 Looking for contributors on **CivicLink**
-- 💬 Ask me about **building practical, real-world solutions**
-- ⚡ Fun fact: **BoRn BaKcHoOd** 😄
+**Full Stack Developer | V.S Electricals** *(Aug 2024 – Dec 2025)*
+- Developed a responsive marketing website using **React.js** and **Tailwind CSS**, improving online visibility and lead generation.
+
+**Frontend Developer Intern | Arutis** *(Apr 2025 – Jun 2025)*
+- Built responsive frontend interfaces for a school management platform, including dynamic content views and a fully functional Contact Us page.
+
+**Educator | Mrk's Science** *(Dec 2025 – July 2026)*
+- Worked as a full-time doubt solver and part-time mathematics educator.
+- Developed strong communication, patience, and the ability to explain complex concepts simply.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Reached **Finals** of 2 Hackathons — **KnowCode 3.0** & **HackCelestial 2.0**
+- 🎓 **5+ years** of teaching experience, mentoring and educating students across multiple subjects
+- 📜 Completed **5 Hackathon Certifications** (Jan 2025 – Mar 2025)
+
+---
+
+## 🌱 Active Focus & Learning
+
+- 🧠 Strengthening **Data Structures & Algorithms**, OOP, DBMS, and Computer Networks
+- ⚡ Building **real-time systems** using WebSocket, WebRTC, and Socket.io
+- 🔥 Exploring scalable architecture with **Next.js 15** and **Firebase**
+- 🛡️ Implementing secure auth flows with **JWT** and **Google OAuth**
 
 ---
 
