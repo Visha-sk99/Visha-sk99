@@ -61,7 +61,7 @@
 | **🏛️ CivicLink** — Citizen-Politician Interface | Full-stack civic social media platform enabling citizens to report and track community issues in real time, with photo upload & preview support. | React.js, Node.js, Express.js, MongoDB Atlas |
 | **🔥 Flame** — Interactive Web Experience | A creative, fully responsive web app focused on a smooth, personalized user experience. Features polished UI, engaging animations, and mobile-first design, deployed on Vercel with a live shareable link. | React.js, Tailwind CSS, Vercel |
 
-🔗 [Orbizee Live](https://orbizee-zg3a.vercel.app/dashboard) • [Orbizee GitHub](#) &nbsp;|&nbsp; [CivicLink GitHub](https://github.com/Visha-sk99/CivicLink) &nbsp;|&nbsp; [Flame Live](https://girlfriend-flame-eta.vercel.app/) • [Flame GitHub](https://github.com/Visha-sk99/YOUR-REPO-NAME)
+🔗 [Orbizee Live](https://orbizee-zg3a.vercel.app/dashboard) • [Orbizee GitHub](https://github.com/Visha-sk99/ORBIZEE) &nbsp;|&nbsp; [CivicLink GitHub](https://github.com/Visha-sk99/CivicLink) &nbsp;|&nbsp; [Girl Friend](https://girlfriend-flame-eta.vercel.app/) • [Flame GitHub]((https://github.com/Visha-sk99/Girlfriend))
 
 ---
 
